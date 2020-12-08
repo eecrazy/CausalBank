@@ -47,6 +47,4 @@ If you find our causal resources benifit your research, please cite the followin
 
 ```
 ## Contact
-+ [Xiao Ding](http://ir.hit.edu.cn/~xding/)
-+ [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/index.html)
-+ [Zhongyang Li](http://ir.hit.edu.cn/~zyli/)
+Please feel free to contact anyone of the authors!
