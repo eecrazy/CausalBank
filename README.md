@@ -23,7 +23,7 @@ You can download them either from Google Drive: [CausalBank](https://drive.googl
 
 #### Cause Effect Graph (CEG): 89.1 million word-level cause-effect pairs
 
-The three numbers for each cause-effect pair in CEG are: the number of occurrences of the pair, necessity causality score, and sufficiency causality score.
+The three numbers for each cause-effect pair in CEG are: the number of occurrences of the pair, necessity causality score, and sufficiency causality score. Please refer to the paper: "Commonsense Causal Reasoning between Short Texts".
 
 
 ## Citation
