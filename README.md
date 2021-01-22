@@ -21,7 +21,9 @@ You can download them either from Google Drive: [CausalBank](https://drive.googl
 + because mode: 133 million
 + therefore mode: 181 million
 
-#### Cause Effect Graph: 89.1 million word-level cause-effect pairs
+#### Cause Effect Graph (CEG): 89.1 million word-level cause-effect pairs
+
+The three numbers for each cause-effect pair in CEG are: the number of occurrences of the pair, necessity causality score, and sufficiency causality score.
 
 
 ## Citation
